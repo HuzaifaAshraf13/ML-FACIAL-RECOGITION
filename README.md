@@ -1,0 +1,6 @@
+FACIAL RECOGNITION SYSTEM
+MODLES USED :-
+1.FACE model
+2.AGE model
+3.GENDER DETCTION MODEL
+4.OPEN CV ( a python for visual functionality)
